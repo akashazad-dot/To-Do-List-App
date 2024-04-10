@@ -8,7 +8,7 @@ The login authentication logic and the tasks database for each user are not impl
 
 Demonstration
 
-#Functionalities
+##Functionalities
 • Application UI with navigation sidebar and area for the to-do list;
 • Add new task, setting name and categorie properties;
 • Delete task, with a modal for confirming the action;
@@ -18,7 +18,7 @@ Demonstration
 
 Obs.: currently, the "edit task" and adding or removing categories functionalities are not implemented, since I considered it wouldn't contribute that much to my personal learning, and would be very time consuming. Maybe I'll implement this later on.
 
-#Usage
+###Usage
 If you want to try this project yourself:
 
 Install Node on your machine, via https://nodejs.org/en/.
